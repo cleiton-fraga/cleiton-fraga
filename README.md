@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hi there! I'm a **Software Engineer** with over **7 years of experience** building robust, scalable, and high-performance software solutions. I specialize in **Java** development and have deep expertise with the **Spring ecosystem**, **JPA**, and **Hibernate**.
+Hi there! I'm a **Software Engineer** with **8 years of experience** building robust, scalable, and high-performance software solutions. I specialize in **Java** development and have deep expertise with the **Spring ecosystem**, **JPA**, and **Hibernate**.
 
 I've had the opportunity to work in **financial institutions, banks, and startups**, which gave me a strong foundation for solving complex problems and delivering impactful solutions across different environments.
 
